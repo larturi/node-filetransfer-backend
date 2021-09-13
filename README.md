@@ -1,19 +1,14 @@
-<h1 align="center">
-  Filetransfer App (Server)
-</h1>
+# Filetransfer App (Server)
 
-<h3 align="center">
-  -- Next, React, Node and Mongo --
-</h3>
-
-<h5 align="center">
-  Made with ❤️ by Leandro Arturi
-</h5>
+### Next, React, Node and Mongo
 
 ## 🚀 Quick start
 
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
 ```
+
+##### Made with ❤️ by Leandro Arturi
+
